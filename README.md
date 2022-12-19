@@ -1,4 +1,4 @@
-# InnerClassLeaning
+# Inner Class Leaning
 
 - Nested Inner Class
 - Anonymous Inner Class
